@@ -1,0 +1,8 @@
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\bin\Debug\validar cpf 4.exe.config
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\bin\Debug\validar cpf 4.exe
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\bin\Debug\validar cpf 4.pdb
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\obj\Debug\validar cpf 4.csproj.AssemblyReference.cache
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\obj\Debug\validar cpf 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\obj\Debug\validar cpf 4.csproj.CoreCompileInputs.cache
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\obj\Debug\validar cpf 4.exe
+C:\Users\lucas.rrosendo\source\repos\validar cpf 4\validar cpf 4\obj\Debug\validar cpf 4.pdb
